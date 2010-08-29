@@ -1,0 +1,10 @@
+Eclipse Color Theme for Emacs.
+==============================
+
+Emacs color theme based on the Eclipse's default syntax highlighting.
+
+To use add the following to your .emacs file (requires the color-theme package):
+
+(require 'color-theme)
+(color-theme-initialize)
+(require 'color-theme-eclipse)
