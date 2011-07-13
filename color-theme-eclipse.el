@@ -5,7 +5,7 @@
 ;; Author: Kentaro Takahashi
 ;; Keywords: faces local eclipse color theme
 ;; URL: http://github.com/takaken/color-theme-eclipse
-;; Version: 0.0.1
+;; Version: 0.0.2
 ;; Package-Requires: ((color-theme "6.6.1"))
 
 ;;; License:
