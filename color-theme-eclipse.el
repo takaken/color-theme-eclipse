@@ -3,7 +3,7 @@
 ;; Copyright (C) 2010 Kentaro Takahashi <takaken@bigfoot.com>
 
 ;; Author: Kentaro Takahashi
-;; Keywords: faces local
+;; Keywords: faces local eclipse color theme
 ;; URL: http://github.com/takaken/color-theme-eclipse
 ;; Version: 0.0.1
 ;; Package-Requires: ((color-theme "6.6.1"))
