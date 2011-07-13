@@ -1,4 +1,4 @@
-;;; color-theme-eclipse.el --- eclipse like color theme function
+;;; color-theme-eclipse.el --- Eclipse color theme for GNU Emacs.
 
 ;; Copyright (C) 2010 Kentaro Takahashi <takaken@bigfoot.com>
 
