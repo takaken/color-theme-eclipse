@@ -3,7 +3,8 @@
 ;; Copyright (C) 2010 Kentaro Takahashi <takaken@bigfoot.com>
 
 ;; Author: Kentaro Takahashi
-;; Keywords: faces local eclipse color theme
+;; Adapted-By: Yesudeep Mangalapilly
+;; Keywords: eclipse color theme emacs
 ;; URL: http://github.com/takaken/color-theme-eclipse
 ;; Version: 0.0.2
 ;; Package-Requires: ((color-theme "6.6.1"))
