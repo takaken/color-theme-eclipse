@@ -5,6 +5,8 @@
 ;; Version: 0.0.1
 ;; Keywords: faces local
 ;; Author: Kentaro Takahashi
+;; URL: http://github.com/takaken/color-theme-eclipse
+;; Package-Requires: ((color-theme "6.6.1"))
 
 ;; This is free software; you can redistribute it and/or modify it under
 ;; the terms of the GNU General Public License as published by the Free
