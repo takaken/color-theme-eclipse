@@ -8,6 +8,8 @@
 ;; Version: 0.0.2
 ;; Package-Requires: ((color-theme "6.6.1"))
 
+;; This file is not a part of GNU Emacs.
+
 ;;; License:
 
 ;; This is free software; you can redistribute it and/or modify it under
