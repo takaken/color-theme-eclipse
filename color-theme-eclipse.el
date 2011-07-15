@@ -1,10 +1,17 @@
-;;; color-theme-eclipse.el --- eclipse like color theme function
+;;; color-theme-eclipse.el --- Eclipse color theme for GNU Emacs.
 
-;; Copyright (C) 2010  Kentaro Takahashi <takaken@bigfoot.com>
+;; Copyright (C) 2010 Kentaro Takahashi <takaken@bigfoot.com>
 
-;; Version: 0.0.1
-;; Keywords: faces local
 ;; Author: Kentaro Takahashi
+;; Adapted-By: Yesudeep Mangalapilly
+;; Keywords: eclipse color theme emacs
+;; URL: http://github.com/takaken/color-theme-eclipse
+;; Version: 0.0.2
+;; Package-Requires: ((color-theme "6.6.1"))
+
+;; This file is not a part of GNU Emacs.
+
+;;; License:
 
 ;; This is free software; you can redistribute it and/or modify it under
 ;; the terms of the GNU General Public License as published by the Free
@@ -20,6 +27,8 @@
 ;; along with GNU Emacs; see the file COPYING.  If not, write to the
 ;; Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston,
 ;; MA 02111-1307, USA.
+
+;;; Code:
 
 ;; color theme (requires http://www.emacswiki.org/cgi-bin/wiki?ColorTheme )
 (require 'color-theme)
