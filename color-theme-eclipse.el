@@ -6,7 +6,7 @@
 ;; Adapted-By: Yesudeep Mangalapilly
 ;; Keywords: eclipse color theme emacs
 ;; URL: http://github.com/takaken/color-theme-eclipse
-;; Version: 0.0.2
+;; Version: 0.0.3
 ;; Package-Requires: ((color-theme "6.6.1"))
 
 ;; This file is not a part of GNU Emacs.
@@ -51,11 +51,11 @@ Includes faces for font-lock, widget, custom, speedbar."
      (modeline-buffer-id ((t (:background "Gray75" :foreground "blue4"))))
      (modeline-mousable ((t (:background "Gray75" :foreground "firebrick"))))
      (modeline-mousable-minor-mode ((t (:background "Gray75" :foreground "green4"))))
-     (highlight ((t (:foreground "black" :background "darkseagreen2"))))
+     (highlight ((t (:background "darkseagreen2"))))
      (bold ((t (:bold t))))
      (italic ((t (:italic t))))
      (bold-italic ((t (:bold t :italic t))))
-     (region ((t (:foreground "black" :background "snow3"))))
+     (region ((t (:background "snow3"))))
      (secondary-selection ((t (:background "paleturquoise"))))
      (underline ((t (:underline t))))
      (lazy-highlight-face ((t (:foreground "dark magenta" :bold t))))
